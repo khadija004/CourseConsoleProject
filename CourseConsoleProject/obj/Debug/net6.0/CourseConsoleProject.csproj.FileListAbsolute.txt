@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\bin\Debug\net6.0\CourseConsoleProject.exe
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\bin\Debug\net6.0\CourseConsoleProject.deps.json
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\bin\Debug\net6.0\CourseConsoleProject.runtimeconfig.json
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\bin\Debug\net6.0\CourseConsoleProject.dll
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\bin\Debug\net6.0\CourseConsoleProject.pdb
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.AssemblyInfo.cs
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.dll
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\refint\CourseConsoleProject.dll
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.pdb
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\CourseConsoleProject.genruntimeconfig.cache
+C:\Users\User\Desktop\C# P236\CourseConsoleProject\CourseConsoleProject\obj\Debug\net6.0\ref\CourseConsoleProject.dll
